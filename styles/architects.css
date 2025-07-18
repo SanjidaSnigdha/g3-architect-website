@@ -192,6 +192,22 @@ main > section{
   max-width: 540px;
 }
 
+  .footer-text{
+    text-align: center;
+    width: 1140px;
+    height: 100px;
+     margin-top: 210px;
+     margin-left: 240px;
+     margin-right: 240px;
+     margin-bottom: 216px;
+     
+    background-color: #FFF4E7;
+    border: 1px solid #FFF4E7;
+    border-radius: 8px;
+    padding: 39px 410px;
+  }
+
+
 /* responsive media query */
 @media screen and (max-width: 576px) {
   .navbar,
